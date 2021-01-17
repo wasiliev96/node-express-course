@@ -1,0 +1,11 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wasiliev96/node-express-course.git",
+  "author": "wasiliev96 <wasiliev.cloud@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
